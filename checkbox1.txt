@@ -1,3 +1,4 @@
 hello there this is our new lecture 
 we are going to learn initialization of git repository
 *******************************************************
+........................................................
